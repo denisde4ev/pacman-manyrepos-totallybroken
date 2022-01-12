@@ -1,0 +1,45 @@
+#
+# KaOS repository mirrorlist
+#
+
+# Default mirror
+# United Kingdom
+## Server = https://uk.mirrors.fossho.st/kaos/$repo
+
+# Germany
+Server = http://mirrors.redcorelinux.org/kaosx/$repo
+Server = http://mirror6.layerjet.com/kaos/$repo
+Server = https://mirror.alpix.eu/kaos/$repo
+
+# China
+Server = https://mirrors.tuna.tsinghua.edu.cn/KaOS/$repo
+Server = https://mirrors.nju.edu.cn/kaos/$repo
+Server = http://mirrors.nju.edu.cn/kaos/$repo
+Server = https://mirrors.aliyun.com/KaOS/$repo
+Server = http://mirrors.aliyun.com/KaOS/$repo
+
+# Czech Republic
+Server = http://mirror.234.cz/kaos/$repo
+
+# France
+Server = https://kaosx.cf/$repo
+Server = http://kaos.youm.org/$repo
+
+# Netherlands
+Server = https://repo.kaosx.us/$repo
+
+# South-Africa
+#Server = http://ftp.wa.co.za/pub/kaos/$repo
+
+# United States
+Server = https://us.mirrors.fossho.st/kaos/$repo
+Server = https://mirror.math.princeton.edu/pub/kaoslinux/$repo
+Server = http://mirror.dacentec.com/kaosx/$repo
+Server = http://kaosx.tk/repo/$repo
+Server = https://kqtos.tk/repo/$repo
+
+
+# Vietnam
+Server = https://mirror.freedif.org/KaOS/$repo
+
+

@@ -1,0 +1,23 @@
+# Germany
+Server = http://chaotic.bangl.de/$repo/$arch
+## By: ParanoidBangL
+Server = https://builds.garudalinux.org/repos/$repo/$arch
+
+
+# USA
+## By: GarudaLinux and Fosshost
+## By: LordKitsuna
+Server = https://repo.kitsuna.net/$arch
+
+# Netherlands
+## By: Var Bhat and LiteServer
+Server = https://chaotic.tn.dedyn.io/$arch
+
+# Borgos, Spain
+## By: JKANetwork
+Server = https://repo.jkanetwork.com/repo/$repo/$arch
+
+
+# Seoul, Korea
+## By: Ryoichi <t.me/r377yx>
+Server = https://mirror.maakpain.kro.kr/garuda/$repo/$arch

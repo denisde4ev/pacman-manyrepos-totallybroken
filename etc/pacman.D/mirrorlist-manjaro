@@ -1,0 +1,4 @@
+
+
+Server = http://ftp.cc.uoc.gr/mirrors/linux/manjaro/unstable/$repo/$arch
+Server = https://manjaro.mirror.liquidtelecom.com/unstable/$repo/$arch
